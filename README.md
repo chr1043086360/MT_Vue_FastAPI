@@ -1,4 +1,4 @@
-# mainshi
+# 仿美团项目
 
 ## Project setup
 ```
